@@ -15,7 +15,7 @@ import string
 import json
 
 console = Console()
-limit_hours = 10
+limit_hours = 27
 log_file = "hs.txt"
 
 def clear():
